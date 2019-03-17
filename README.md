@@ -19,10 +19,6 @@ API News est un JSON API pour les news et les articles des blog. Ce project util
 
 • Prettytime pour Convertir Java Date() objects in just “a few minutes!”
 
-Clone this project
-
-Clone with SSH git@github.com:haerulmuttaqin/PopularNews.git
-
 Replace your API key
 
 public static final String API_KEY = "your secret api key";
@@ -32,6 +28,7 @@ SCREENSHOTS
 
 
 CREDITS 
+Thanks
  haerulmuttaqin https://github.com/haerulmuttaqin
 
 
